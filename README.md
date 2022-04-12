@@ -1,1 +1,1 @@
-# scripts
+this is where i make scripts!!
